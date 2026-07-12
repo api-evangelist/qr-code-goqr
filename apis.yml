@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://goqr.me/api/
 common:
+  - type: DomainSecurity
+    url: security/qr-code-goqr-domain-security.yml
   - type: Website
     url: http://goqr.me/api/
   - type: PublicAPIsListing
