@@ -39,7 +39,6 @@ apis:
   - name: QR code
     description: "Generate and decode / read QR code graphics"
     humanURL: http://goqr.me/api/
-    baseURL: http://goqr.me/api/
     tags:
       - Development
     properties:
